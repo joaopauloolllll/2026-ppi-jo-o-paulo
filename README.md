@@ -1,2 +1,2 @@
-# 2026-ppi-jo-o-paulo
+# 2026-ppi-joao-paulo
 Repositório para atividades com flask
